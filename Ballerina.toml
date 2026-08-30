@@ -1,0 +1,8 @@
+[package]
+org = "elisen_mahoto"
+name = "loml_birthday"
+version = "0.1.0"
+distribution = "2201.13.5"
+
+[build-options]
+observabilityIncluded = true
